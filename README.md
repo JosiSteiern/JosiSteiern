@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This is my GitHub corner to showcase projects, experiments, and insights from my journey in tech.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSteiern&layout=compact&theme=gotham)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSteiern&layout=compact&theme=synthwave)
 
 ## I code with
 <div style="display: flex; flex-direction="row">
