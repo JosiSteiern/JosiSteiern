@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This is my GitHub corner to showcase projects, experiments, and insights from my journey in tech.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSteiern&layout=compact&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSteiern&layout=compact&theme=panda)
 
 ## I code with
 <div style="display: flex; flex-direction="row">
@@ -16,10 +16,12 @@ Welcome to my GitHub profile! This is my GitHub corner to showcase projects, exp
 </div>
 
 ## Tools I use
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+<div style="display: flex; flex-direction="row">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</div>
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/josiane-steiernagel-410a692a0/)
