@@ -2,6 +2,8 @@
 
 Welcome to my Github profile! This is my GitHub corner to showcase projects, experiments, and insights from my journey in tech."
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiSteiern&layout=compact)
+
 
 ## I code with
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
